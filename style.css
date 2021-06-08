@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    background: rgb(255,9,0);
+background: linear-gradient(90deg, rgba(255,9,0,1) 0%, rgba(0,224,255,1) 100%);
+    font-family: inherit;
+    color:#00f218;
+}
+img{
+    width:450px;
+    height: 250px;
+}
+.link{
+    font-family: cursive;
+    cursor: pointer;
+    color:#b00af2;
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px;
+}
+}
+p{
+    font-family: 'Odibee Sans', cursive;
+    font-size:30px;
+}
+ul{
+    margin:0;
+    padding: 0;
+    list-style-type: none;
+}
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+    transition-delay: 0.9;
+}
+.xbox{ 
+    font-family: monospace;
+    color:#ff6a00;
+}
+html{
+    scroll-behavior: smooth;
+    position:sticky;
+}
+#legogallery{
+    color:blue;
+    display: list-item;
+}
+a{
+    color:#b00af2;
+} 
+.imga{
+    Width:300px;
+    height: 400px;
+}
+#justap{
+    font-size: 15px;
+    color:lime;
+}
+.line{
+    width:70px;
+    background-color:black;
+    height:6px;
+    margin:9 auto;
+}
+pa{
+    color:white;
+}
